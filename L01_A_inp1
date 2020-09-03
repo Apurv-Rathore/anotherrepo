@@ -5,21 +5,21 @@ Enter the data value:
 Enter the choice: 
 Enter the data value: 
 Enter the choice: 
-	Size of Linked List = 3
+	Size of the linked List = 3
 Enter the choice: 
-	Linked List : 16 =>  10 => 20
+	Linked list : 16 =>  10 => 20
 Enter the choice: 
 	Wrong Input.
 Enter the choice Again: 
 Enter the choice: 
-	Linked List : 10 => 20
+	Linked list : 10 => 20
 Enter the choice: 
 Enter the data value: 
 Enter the choice: 
 Enter the data value: 
 Enter the choice: 
 Enter the choice: 
-	Linked List : 40 =>  10 => 20
+	Linked list : 40 =>  10 => 20
 Enter the choice: 
 Enter the data value: 
 	Value 10 node is at position 2 in the linked list. 
@@ -29,7 +29,7 @@ Enter the data value:
 Enter the choice: 
 Enter the data value: Cannot find any such node in the linked-list
 Enter the choice: 
-	Linked List : 40 => 20
+	Linked list : 40 => 20
 Enter the choice: 
-	Size of Linked List = 2
+	Size of the linked List = 2
 Enter the choice: 
