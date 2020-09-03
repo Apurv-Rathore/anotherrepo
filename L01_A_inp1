@@ -1,35 +1,36 @@
-Enter the choice: 
-Enter the data value: 
-Enter the choice: 
-Enter the data value: 
-Enter the choice: 
-Enter the data value: 
-Enter the choice: 
-	Size of the linked List = 3
-Enter the choice: 
-	Linked list : 16 =>  10 => 20
-Enter the choice: 
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+Enter the choice:
+	Size of the linked list = 3
+Enter the choice:
+	Linked list: 16 => 10 => 20
+Enter the choice:
 	Wrong Input.
-Enter the choice Again: 
-Enter the choice: 
-	Linked list : 10 => 20
-Enter the choice: 
-Enter the data value: 
-Enter the choice: 
-Enter the data value: 
-Enter the choice: 
-Enter the choice: 
-	Linked list : 40 =>  10 => 20
-Enter the choice: 
-Enter the data value: 
-	Value 10 node is at position 2 in the linked list. 
-	Difference in its allocated memory to that of current head: -6
-Enter the choice: 
-Enter the data value: 
-Enter the choice: 
-Enter the data value: Cannot find any such node in the linked-list
-Enter the choice: 
-	Linked list : 40 => 20
-Enter the choice: 
-	Size of the linked List = 2
-Enter the choice: 
+Enter your choice again:
+Enter the choice:
+	Linked list: 10 => 20
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the choice:
+	Linked list: 40 => 10 => 20
+Enter the choice:
+Enter the data value:
+	Value 10 node is at position 2 in the linked list.
+	Difference in its allocated memory to that of current head : -6
+Enter the choice:
+Enter the data value:
+Enter the choice:
+Enter the data value:
+	Cannot find any such node in the linked-list
+Enter the choice:
+	Linked list: 40 => 20
+Enter the choice:
+	Size of the linked list = 2
+Enter the choice:
